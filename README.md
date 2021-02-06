@@ -1,0 +1,2 @@
+# collectYJN
+practice web scraping
